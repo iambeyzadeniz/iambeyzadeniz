@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iambeyzadeniz
-- 👀 I’m interested in react js html css javascript 
+- 👀 I’m interested in REACT JS | REACT NATİVE | HTML | CSS | JAVASCRIPT 
 - 🌱 I’m currently learning new technologies and innovations in software languages
 - 📫 How to reach me https://www.linkedin.com/in/beyzadeniz/
 - I will share my side projects that I develop outside of work here, you can follow my developments!!!
